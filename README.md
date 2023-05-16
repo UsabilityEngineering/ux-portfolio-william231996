@@ -10,6 +10,6 @@ Coming soon.
 
 ## UX Journal
 
-[Read about my experience with Bash](j01/)
+[Journal 1](j01/)
 
-[Read about my experience with Bash](j02/)
+[Journal 2](j02/)
